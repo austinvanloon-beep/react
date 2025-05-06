@@ -79,3 +79,5 @@ React is [MIT licensed](./LICENSE).
 
 
 ## This file has been edited by Austin Vanloon
+
+# Updated for dev branch
